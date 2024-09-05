@@ -17,6 +17,7 @@
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/unistavamserver) 
+  [![Patreon](![image](https://github.com/user-attachments/assets/b6c88ad8-c929-497b-b6b5-a6c4ecb068dc))](https://ko-fi.com/unistavamserver) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

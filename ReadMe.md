@@ -16,8 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=Unistavam&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/unistavamserver) 
-  [![Patreon](https://static-00.iconduck.com/assets.00/patreon-icon-256x256-siza4a30.png)](https://www.patreon.com/Unistavamserver) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Unistavamserver) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/unistavamserver) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

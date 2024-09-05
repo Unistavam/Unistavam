@@ -17,7 +17,7 @@
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/unistavamserver) 
-  [![Patreon](https://w7.pngwing.com/pngs/279/841/png-transparent-patreon-logo-landscape-tech-companies.png)](patreon.com/Unistavamserver) 
+  [![Patreon](https://static-00.iconduck.com/assets.00/patreon-icon-256x256-siza4a30.png)](https://www.patreon.com/Unistavamserver) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
